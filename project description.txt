@@ -1,0 +1,1 @@
+This project mainly concentrates on how to analyze and visualize the large amount of data.
